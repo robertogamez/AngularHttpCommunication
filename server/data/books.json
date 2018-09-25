@@ -1,17 +1,5 @@
 [
     {
-        "bookID": 1,
-        "title": "Goodnight Moon",
-        "author": "Margaret Wise Brown",
-        "publicationYear": "1953"
-    },
-    {
-        "bookID": 2,
-        "title": "Winnie-the-Pooh",
-        "author": "A. A. Milne",
-        "publicationYear": "1926"
-    },
-    {
         "bookID": 3,
         "title": "Where the Wild Things Are",
         "author": "Maurice Sendak",
@@ -34,5 +22,11 @@
         "title": "Alice's Adventures in Wonderland",
         "author": "Lewis Carroll",
         "publicationYear": "1865"
+    },
+    {
+        "bookID": 7,
+        "title": "Title 1",
+        "author": "Author 1",
+        "publicationYear": "Year Published 1"
     }
 ]
